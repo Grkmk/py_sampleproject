@@ -1,6 +1,5 @@
 LICENSE
 MANIFEST.in
-README.rst
 setup.py
 django_polls_GRKMK.egg-info/PKG-INFO
 django_polls_GRKMK.egg-info/SOURCES.txt
